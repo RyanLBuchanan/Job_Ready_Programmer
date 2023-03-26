@@ -30,10 +30,10 @@ public class Zoo {
 		firehawk.fly();
 		System.out.println("");
 		
-//		Chickenhawk chickenhawk = new Chickenhawk("Chickenhawky", 21, "male", 6, "Brown");
-//		System.out.println("ChickenHawky be...");
-//		chickenhawk.fly();
-//		System.out.println("");
+		Chickenhawk chickenhawk = new Chickenhawk("Chickenhawky", 21, "male", 6, "Brown");
+		System.out.println("ChickenHawky be...");
+		chickenhawk.fly();
+		System.out.println("");
 		
 	}
 }
