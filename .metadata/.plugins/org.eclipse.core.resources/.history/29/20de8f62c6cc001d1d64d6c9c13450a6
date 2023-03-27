@@ -9,13 +9,13 @@ public class Zoo {
 				
 		puppyAnimal.speak();
 		System.out.println("");
-//		
-//		Bird birdBrain = new Bird("BirdBrain", 3.14159, "Female", 69, "Turqoise");
-//		System.out.println("BirdBrain be...");
-//		birdBrain.eat();
-//		birdBrain.sleep();
-//		birdBrain.fly();
-//		System.out.println("");
+		
+		Bird birdBrain = new Bird("BirdBrain", 3.14159, "Female", 69, "Turqoise");
+		System.out.println("BirdBrain be...");
+		birdBrain.eat();
+		birdBrain.sleep();
+		birdBrain.fly();
+		System.out.println("");
 		
 	
 		
@@ -35,9 +35,5 @@ public class Zoo {
 //		chickenhawk.fly();
 //		System.out.println("");
 		
-		Sparrow sparrow = new Sparrow("SparrowMan", 21, "male", 6, "blue");
-		System.out.println("Sparrow will . . . ");
-		sparrow.fly();
-		System.out.println();
 	}
 }
