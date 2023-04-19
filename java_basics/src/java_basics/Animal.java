@@ -1,6 +1,6 @@
 package java_basics;
 
-public class Animal {
+public abstract class Animal {
 	// Vertebrate type
 			String vertebrateType;
 			// Age
@@ -41,6 +41,8 @@ public class Animal {
 				System.out.println("Sleeping in the bed.");
 				
 			}
+			
+			public abstract void move();
 			
 			public void hunt() {
 				System.out.println("Hunting wabbits!");

@@ -10,4 +10,9 @@ public class Fish extends Animal{
 	public void swim() {
 		System.out.println("Swimming in the sea!");
 	}
+
+	public void move() {
+		System.out.println("Fish is swimming.");
+		
+	}
 }

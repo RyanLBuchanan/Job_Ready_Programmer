@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vreed
+ *
+ */
+module stringManipulationMethods {
+}

@@ -7,7 +7,9 @@ public class Bird extends Animal{
 		super(vertebrateType, age, sex, height, overallColor);
 	
 	}
-	
-	// Create an interface
-	
+
+	public void move() {
+		System.out.println("Bird is flapping wings.");
+		
+	}
 }
